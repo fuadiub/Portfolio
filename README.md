@@ -40,9 +40,9 @@
 
 | Project | Description | Focus |
 |--------|-------------|-------|
-| [🛠️ Slope Stability Analyzer](https://github.com/fuadiubaidillah/slope-analyzer) | Automates FoS calculation and visualization using Morgenstern-Price method | Python, Geotechnical Modeling |
-| [📊 Soil Classification Dashboard](https://github.com/fuadiubaidillah/soil-dashboard) | Analyzes soil logs & lab data for classification and reporting | Pandas, Streamlit |
-| [🌐 GIS-based Site Risk Map](https://github.com/fuadiubaidillah/georisk-mapping) | Visualizes subsurface investigation results on interactive maps | QGIS, Python, Folium |
+| [🛠️ Soil Moisture Prediction](https://github.com/fuadiub/Soil-Moisture-Prediction/blob/main/soil_moisture_prediction.ipynb) | forecasts soil moisture content over time using simulated weather data modelling using Linear Regression and ARIMA | Numpy, Pandas, Scikit-learn, Statsmodels |
+| [📊 SPT Depht Analysis](https://github.com/fuadiub/SPT-Depth/blob/main/spt_depth.ipynb) | Analyzes SPT depth for Safety Factors against Liquefaction | Numpy, Matplotlib |
+| [🌐 Map Contour & Slope](https://github.com/fuadiub/Map-Contour-Slope/blob/main/map_contour_slope.ipynb) | Visualizes cvisualize slope steepness zones with intuitive color codes based on map | OpenCV, Pillow, Numpy, Matplotlib |
 
 <br>
 
