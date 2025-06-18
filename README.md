@@ -40,9 +40,10 @@
 
 | Project | Description | Focus |
 |--------|-------------|-------|
-| [🛠️ Soil Moisture Prediction](https://github.com/fuadiub/Soil-Moisture-Prediction/blob/main/soil_moisture_prediction.ipynb) | forecasts soil moisture content over time using simulated weather data modelling using Linear Regression and ARIMA | Numpy, Pandas, Scikit-learn, Statsmodels |
-| [📊 SPT Depht Analysis](https://github.com/fuadiub/SPT-Depth/blob/main/spt_depth.ipynb) | Analyzes SPT depth for Safety Factors against Liquefaction | Numpy, Matplotlib |
-| [🌐 Map Contour & Slope](https://github.com/fuadiub/Map-Contour-Slope/blob/main/map_contour_slope.ipynb) | Visualizes cvisualize slope steepness zones with intuitive color codes based on map | OpenCV, Pillow, Numpy, Matplotlib |
+| [Soil Moisture Prediction](https://github.com/fuadiub/Soil-Moisture-Prediction/blob/main/soil_moisture_prediction.ipynb) | forecasts soil moisture content over time using simulated weather data modelling using Linear Regression and ARIMA | Numpy, Pandas, Scikit-learn, Statsmodels |
+| [SPT Depht Analysis](https://github.com/fuadiub/SPT-Depth/blob/main/spt_depth.ipynb) | Analyzes SPT depth for Safety Factors against Liquefaction | Numpy, Matplotlib |
+| [Map Contour & Slope](https://github.com/fuadiub/Map-Contour-Slope/blob/main/map_contour_slope.ipynb) | Visualizes cvisualize slope steepness zones with intuitive color codes based on map | OpenCV, Pillow, Numpy, Matplotlib |
+| [Slope Stability Analysis](https://github.com/fuadiub/Slope-Stability-Analysis/blob/main/Slope_Stability_Analysis.ipynb) | Calculates the Factor of Safety (FoS) for a potential circular slip failure on a homogeneous soil slope using the Bishop Simplified Method | Numpy, Matplotlib |
 
 <br>
 
