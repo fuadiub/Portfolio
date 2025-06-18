@@ -50,5 +50,5 @@ I combine engineering principles with **data analytics** to:
 
 ## 📫 Get in Touch
 
-🌐 [Website](https://fuadiub.github.io/Portfolio/)  |  📧 [Email](mailto:fuadiub77@gmail.com)  |  💼 [linkedin](https://linkedin.com/in/fuadiubaidillah)
+🌐 [Website](https://fuadiub.github.io/Portfolio/)  |  📧 [Email](mailto:fuadiub77@gmail.com)  |  💼 [linkedin](https://www.linkedin.com/in/fuadi-ubaidillah-196b42122/)
 
