@@ -2,7 +2,6 @@
 
 # Fuadi Ubaidillah
 
-<br>
 
 **Geotechnical Engineer** with a passion for solving earth and ground-related challenges using data.
 
