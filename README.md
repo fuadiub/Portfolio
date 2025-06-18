@@ -5,13 +5,14 @@
 
 **Geotechnical Engineer** with a passion for solving earth and ground-related challenges using data.
 
-🔎 I combine engineering principles with **data analytics** to:
-- Evaluate soil stability
-- Assess foundation risk
-- Support slope and landslide analysis
-- Enhance infrastructure design
+I combine engineering principles with **data analytics** to:
 
-📊 My toolkit includes Python-based modeling, statistical evaluations, and GIS-based mapping to support smarter decisions in the field.
+> Evaluate soil stability <br>
+> Assess foundation risk <br>
+> Support slope and landslide analysis <br>
+> Enhance infrastructure design <br>
+
+📊 My toolkit includes Python-based modeling, statistical evaluations, and mapping to support smarter decisions in the field.
 
 <br>
 
