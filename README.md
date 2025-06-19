@@ -12,15 +12,15 @@ I combine engineering principles with **data analytics** to:
 > Support slope and landslide analysis <br>
 > Enhance infrastructure design <br>
 
-📊 My toolkit includes Python-based modeling, statistical evaluations, and mapping to support smarter decisions in the field.
+My toolkit includes Python-based modeling, statistical evaluations, and mapping to support smarter decisions in the field.
 
 <br>
 
 ## 🛠️ Skills & Tools
 
 **Geotechnical Tools & Topics:**  
-🪨 Slope Stability • Liquefaction Potential • Foundation Design • Soil Classification  
-🧪 Lab & Field Testing • Site Investigations • Settlement Analysis • Rock Mechanics  
+Slope Stability • Liquefaction Potential • Foundation Design • Soil Classification  
+Lab & Field Testing • Site Investigations • Settlement Analysis • Rock Mechanics  
 
 **Data & Tech Stack:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -37,7 +37,7 @@ I combine engineering principles with **data analytics** to:
 
 <br>
 
-## 🧩 Projects
+## Projects
 
 | Project | Description | Focus |
 |--------|-------------|-------|
@@ -48,7 +48,7 @@ I combine engineering principles with **data analytics** to:
 
 <br>
 
-## 📫 Get in Touch
+## Get in Touch
 
 📷 [Instagram](https://www.instagram.com/fuadi_ubaidillah/)  |  📧 [Email](mailto:fuadiub77@gmail.com)  |  💼 [linkedin](https://www.linkedin.com/in/fuadi-ubaidillah-196b42122/)
 
